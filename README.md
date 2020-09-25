@@ -1,2 +1,2 @@
 # WebScraper
-Scrape news articles from hacker news website with more than 130 upvotes. Uses requests and beautiful soup.
+Scrape news articles from the hacker news website that have more than 130 upvotes. Uses requests and beautiful soup.
